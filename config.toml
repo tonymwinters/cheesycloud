@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://tonymwinters.github.io/cheesycloud/"
 languageCode = "en-us"
 title = "CheesyCloud"
 theme = "hyde"
