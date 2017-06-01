@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/post/cool-post/</loc>
+    <loc>https://tonymwinters.github.io/cheesycloud/post/cool-post/</loc>
     <lastmod>2017-05-01T10:05:11-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://tonymwinters.github.io/cheesycloud/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2017-05-01T10:05:11-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/development/</loc>
+    <loc>https://tonymwinters.github.io/cheesycloud/</loc>
     <lastmod>2017-05-01T10:05:11-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/development/</loc>
+    <loc>https://tonymwinters.github.io/cheesycloud/tags/development/</loc>
     <lastmod>2017-05-01T10:05:11-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/golang/</loc>
+    <loc>https://tonymwinters.github.io/cheesycloud/categories/development/</loc>
     <lastmod>2017-05-01T10:05:11-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/categories/golang/</loc>
+    <loc>https://tonymwinters.github.io/cheesycloud/tags/golang/</loc>
     <lastmod>2017-05-01T10:05:11-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://tonymwinters.github.io/cheesycloud/categories/golang/</loc>
     <lastmod>2017-05-01T10:05:11-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://tonymwinters.github.io/cheesycloud/post/</loc>
+    <lastmod>2017-05-01T10:05:11-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tonymwinters.github.io/cheesycloud/tags/</loc>
     <lastmod>2017-05-01T10:05:11-04:00</lastmod>
     <priority>0</priority>
   </url>

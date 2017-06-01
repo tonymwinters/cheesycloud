@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CheesyCloud</title>
-    <link>http://example.org/</link>
+    <link>https://tonymwinters.github.io/cheesycloud/</link>
     <description>Recent content on CheesyCloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 May 2017 10:05:11 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tonymwinters.github.io/cheesycloud/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cool Post</title>
-      <link>http://example.org/post/cool-post/</link>
+      <link>https://tonymwinters.github.io/cheesycloud/post/cool-post/</link>
       <pubDate>Mon, 01 May 2017 10:05:11 -0400</pubDate>
       
-      <guid>http://example.org/post/cool-post/</guid>
+      <guid>https://tonymwinters.github.io/cheesycloud/post/cool-post/</guid>
       <description>I mean, shit, what site doesn&amp;rsquo;t have at least one cool post? So who am I? Well, I&amp;rsquo;m glad you asked. I&amp;rsquo;m Tony. And now we&amp;rsquo;re friends. Here&amp;rsquo;s a little somethin&amp;rsquo; somethin&amp;rsquo; about me.
 Basically, I&amp;rsquo;m a former Soviet-Union born software engineer, 3D printing maker wanna-be, RC enthusiast, guitarist, gamer and a basic bitch. Meaning, I&amp;rsquo;m a simple person. A simple person with a ton of interests. This blog will basically explore some of these interests and document my ramblings about them.</description>
     </item>
