@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on CheesyCloud</title>
-    <link>https://tonymwinters.github.io/cheesycloud/categories/</link>
+    <link>www.cheesycloud.com/categories/</link>
     <description>Recent content in Categories on CheesyCloud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://tonymwinters.github.io/cheesycloud/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="www.cheesycloud.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Development</title>
-      <link>https://tonymwinters.github.io/cheesycloud/categories/development/</link>
+      <link>www.cheesycloud.com/categories/development/</link>
       <pubDate>Mon, 01 May 2017 10:05:11 -0400</pubDate>
       
-      <guid>https://tonymwinters.github.io/cheesycloud/categories/development/</guid>
+      <guid>www.cheesycloud.com/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Golang</title>
-      <link>https://tonymwinters.github.io/cheesycloud/categories/golang/</link>
+      <link>www.cheesycloud.com/categories/golang/</link>
       <pubDate>Mon, 01 May 2017 10:05:11 -0400</pubDate>
       
-      <guid>https://tonymwinters.github.io/cheesycloud/categories/golang/</guid>
+      <guid>www.cheesycloud.com/categories/golang/</guid>
       <description></description>
     </item>
     
