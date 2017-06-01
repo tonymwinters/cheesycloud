@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "CheesyCloud"
+theme = "hyde"
+
+[params]
+description = "How much cheese is too much cheese?"
+themeColor = "theme-base-0d"
+publishDir = "docs"
