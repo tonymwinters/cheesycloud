@@ -1,4 +1,4 @@
-baseURL = "www.cheesycloud.com"
+baseURL = "www.cheesycloud.com/"
 languageCode = "en-us"
 title = "CheesyCloud"
 theme = "hyde"

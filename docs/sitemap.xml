@@ -19,25 +19,25 @@
   </url>
   
   <url>
-    <loc>www.cheesycloud.com/tags/development/</loc>
-    <lastmod>2017-05-01T10:05:11-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>www.cheesycloud.com/categories/development/</loc>
     <lastmod>2017-05-01T10:05:11-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>www.cheesycloud.com/tags/golang/</loc>
+    <loc>www.cheesycloud.com/tags/development/</loc>
     <lastmod>2017-05-01T10:05:11-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>www.cheesycloud.com/categories/golang/</loc>
+    <lastmod>2017-05-01T10:05:11-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>www.cheesycloud.com/tags/golang/</loc>
     <lastmod>2017-05-01T10:05:11-04:00</lastmod>
     <priority>0</priority>
   </url>
